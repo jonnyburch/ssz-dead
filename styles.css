@@ -1,0 +1,10 @@
+html, body {
+  font-family: 'Cutive Mono', monospace;
+}
+
+.content {
+  margin: 1rem;
+}
+.big-title {
+  font-weight: bold
+}
